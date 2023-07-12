@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (UDP_Communication_Framework_origonal.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UDP_Communication_Framework.cpp
+D:\SEMESTER_2\PSIA\UDP_Communication_Framework\UDP_Communication_Framework\UDP_Communication_Framework.cpp(71,40): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+D:\SEMESTER_2\PSIA\UDP_Communication_Framework\UDP_Communication_Framework\UDP_Communication_Framework.cpp(121,7): warning C4101: 'buffer_tx': unreferenced local variable
+  UDP_Communication_Framework.vcxproj -> D:\SEMESTER_2\PSIA\UDP_Communication_Framework\x64\Debug\UDP_Communication_Framework.exe
